@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **COPD Detection using Spirometric Readings**
 - 🌱 I’m learning **Machine Learning and AI**
 - 💬 Ask me about **Laravel, React, Flask, and Database Management**
-- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/manvanth-g-c-496b2426b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com/yourhandle)
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/manvanth-g-c-496b2426b)| [Twitter](https://x.com/golyady?t=xbUB31g54kmEYMT4rYXljA&s=09)
 
 ---
 
@@ -42,5 +42,6 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/manvanth-g-c-496b2426b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/manvanth-g-c-496b2426b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/golyady?t=xbUB31g54kmEYMT4rYXljA&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
