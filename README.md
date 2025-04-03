@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **COPD Detection using Spirometric Readings**
 - 🌱 I’m learning **Machine Learning and AI**
 - 💬 Ask me about **Laravel, React, Flask, and Database Management**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/manvanth-g-c-496b2426b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com/yourhandle)
 
 ---
 
