@@ -42,6 +42,6 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="http://www.linkedin.com/in/manvanthgcb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/manvanthgc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/golyady?t=xbUB31g54kmEYMT4rYXljA&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
