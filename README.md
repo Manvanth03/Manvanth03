@@ -2,13 +2,8 @@
 
 # Hi there! I'm Manvanth G C 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Laravel+%7C+React+%7C+Flask+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;)](https://git.io/typing-svg)
 
-## 🚀 About Me
-- 🔭 I’m currently working on **COPD Detection using Spirometric Readings**
-- 🌱 I’m learning **Machine Learning and AI**
-- 💬 Ask me about **Laravel, React, Flask, and Database Management**
-- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/manvanthgc)| [Twitter](https://x.com/golyady?t=xbUB31g54kmEYMT4rYXljA&s=09)
 
 ---
 
@@ -16,17 +11,13 @@
 
 ### Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Tools:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
